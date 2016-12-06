@@ -1,15 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.troni.jpbarcode;
 
 import java.io.ByteArrayOutputStream;
 
 /**
  *
- * @author Mateus
+ * @author EmilHernvall https://gist.github.com/EmilHernvall/953733
  */
 public class Base64 {
 
