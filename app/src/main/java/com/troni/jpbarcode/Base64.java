@@ -4,7 +4,7 @@ import java.io.ByteArrayOutputStream;
 
 /**
  *
- * @author EmilHernvall https://gist.github.com/EmilHernvall/953733
+ * @author EmilHernvall LINK: https://gist.github.com/EmilHernvall/953733
  */
 public class Base64 {
 
